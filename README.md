@@ -20,7 +20,33 @@ An AI-driven platform that automates repetitive workflows, organizes knowledge, 
 - DevOps: GitHub Actions, Vercel
 
 ## 📂 Project Structure
-See repository folders.
+ai-workflow-automation-platform/
+├── frontend/
+│   └── README.md
+│
+├── backend/
+│   └── README.md
+│
+├── automation/
+│   └── README.md
+│
+├── docs/
+│   ├── initial/
+│   │   ├── problem-statement.md
+│   │   ├── vision-scope.md
+│   │   ├── architecture.md
+│   │   ├── tech-stack.md
+│   │   ├── agile-plan.md
+│   │   └── git-strategy.md
+│   │
+│   ├── working/
+│   └── final/
+│
+├── .github/
+│   └── workflows/
+│
+├── README.md
+└── LICENSE
 
 ## 🛠️ Development Approach
 - Agile & Scrum
