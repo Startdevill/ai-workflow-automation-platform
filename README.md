@@ -1,25 +1,31 @@
-# ai-workflow-automation-platform
+# AI Workflow Automation Platform
+
 Production-ready AI workflow automation platform built using Next.js, Python, Supabase, and modern DevOps practices.
 
-# AI Workflow Automation Platform
+## Overview
 
 A production-grade AI-powered platform to automate workflows, organize knowledge, and improve productivity for individuals and teams.
 
-## 🎯 Problem
-Manual workflows, unstructured information, and inefficient task management lead to massive time and cost loss.
+## Problem
 
-## 🚀 Solution
-An AI-driven platform that automates repetitive workflows, organizes knowledge, and provides intelligent insights.
+Manual workflows, unstructured information, and inefficient task management lead to significant time and cost overhead.
 
-## 🧠 Tech Stack
-- Frontend: Next.js
-- Backend: Python (FastAPI)
-- Database & Auth: Supabase
-- AI/ML: NLP, Recommendation Systems
-- Automation: n8n
-- DevOps: GitHub Actions, Vercel
+## Solution
 
-## 📂 Project Structure
+An AI-driven platform that automates repetitive workflows, centralizes knowledge, and provides intelligent insights to support better decision-making.
+
+## Tech Stack
+
+- **Frontend**: Next.js
+- **Backend**: Python (FastAPI)
+- **Database & Auth**: Supabase
+- **AI/ML**: NLP, recommendation systems
+- **Automation**: n8n
+- **DevOps**: GitHub Actions, Vercel/Render
+
+## Project Structure
+
+```
 ai-workflow-automation-platform/
 ├── frontend/
 │   └── README.md
@@ -47,12 +53,15 @@ ai-workflow-automation-platform/
 │
 ├── README.md
 └── LICENSE
+```
 
-## 🛠️ Development Approach
-- Agile & Scrum
-- Feature-based GitHub branching
-- Documentation-first development
-- AI-assisted coding
+## Development Approach
 
-## 📜 License
-MIT
+- Agile & Scrum for iterative delivery
+- Feature-based Git branching
+- Documentation-first development (docs/initial → docs/working → docs/final)
+- AI-assisted coding and automation
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for details.
